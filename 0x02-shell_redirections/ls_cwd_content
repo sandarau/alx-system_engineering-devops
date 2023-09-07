@@ -1,0 +1,19 @@
+total 68
+drwxr-xr-x 2 alex alex 4096 Sep  7 16:15 .
+drwxr-xr-x 6 alex alex 4096 Sep  4 13:11 ..
+-rwxr--r-- 1 alex alex   30 Sep  7 14:56 0-hello_world
+-rwxr--r-- 1 alex alex   28 Sep  7 14:59 1-confused_smiley
+-rwxr--r-- 1 alex alex   41 Sep  4 13:19 100-empty_casks
+-rwxr--r-- 1 alex alex  104 Sep  4 13:17 101-gifs
+-rwxr--r-- 1 alex alex   50 Sep  4 13:16 102-acrostic
+-rwxr--r-- 1 alex alex   91 Sep  4 13:12 103-the_biggest_fan
+-rwxr--r-- 1 alex alex   28 Sep  7 15:00 2-hellofile
+-rwxr--r-- 1 alex alex   39 Sep  7 15:01 3-twofiles
+-rwxr--r-- 1 alex alex   35 Sep  7 15:40 4-lastlines
+-rwxr--r-- 1 alex alex   35 Sep  7 15:56 5-firstlines
+-rwxr--r-- 1 alex alex   40 Sep  7 15:57 6-third_line
+-rwxr--r-- 1 alex alex   86 Sep  7 16:05 7-file
+-rwxr--r-- 1 alex alex   36 Sep  7 16:13 8-cwd_state
+-rw-r--r-- 1 alex alex    6 Sep  4 13:12 README.md
+-rwxr--r-- 1 alex alex  141 Sep  4 13:14 git
+-rw-r--r-- 1 alex alex    0 Sep  7 16:15 ls_cwd_content
